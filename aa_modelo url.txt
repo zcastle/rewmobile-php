@@ -1,0 +1,11 @@
+
+inserta suma y crea linea segun condicion de envio del productos xxxx
+
+10.10.10.20:8080/rewmobile/insertPedidos.php?
+updatePedido={"nmesa":"1","nmozo":"mozo","idprod":"1001","prod":"practica0001","cant":"100",
+"precio":"0.50","pax":"1","co_destino":"2","mnsg":"sin aji"}
+--------------------------------------------------------------------------------------------
+elimina la linea seleccionada si solo existe un producto
+envia el estado de mesa a libre, si recibe parametro tip=2 elimina por completo la mesa
+{"id":"308","nmesa":"24","tip":"1"}
+--------------------------------------------------------------------------------------------
